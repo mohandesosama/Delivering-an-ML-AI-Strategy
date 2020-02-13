@@ -29,7 +29,7 @@ Here is an overview of the documents you will use to complete the steps of this 
 
 ### Some Project Steps in a Spreadsheet Document
 * You will be directed below to complete many of the steps in a single spreadsheet document, let's call it Sheet Project Steps, and include this in your project submission.
-* Here is this template as a Google Sheets doc (you'll be asked to make a copy of it first).
+* Here is this [template as a Google Sheets doc](https://github.com/mohandesosama/Delivering-an-ML-AI-Strategy/blob/master/01_project-steps-delivering-an-ml-ai-strategy.xlsx) (you'll be asked to make a copy of it first).
 * Or you may download this template as an Excel doc in the Resources tab in the left sidebar of the classroom.
 * It is also fine to convert either of these templates to Apple's Numbers spreadsheet software.
 ### Some Project Steps in Slides Documents
