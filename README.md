@@ -57,16 +57,16 @@ Here is an overview of the documents you will use to complete the steps of this 
 * **Complete five Step 2B tabs in Sheet Project Steps doc**: Make a basic assessment of what types of machine learning and AI operations are being used in each use case.
 * **Complete Step 2C in Slides Project Steps doc**: Follow the directions to create a grid in which you will begin prioritizing and narrowing your use cases.
 ### Step 3 - Laying Out Architectures with Common Patterns
-Students using the TeknoVe business - Please download the "TeknoVe Extra Info - Project Step 3" doc from the Resources tab, and read the additional information there about three of the use cases. Then complete Step 3 as described below.
-Students providing their business - Please complete Step 3 as described below.
-Complete Step 3 in Slides Project Steps doc: Follow directions to lay out architectures for your remaining use cases.
-Step 4 - Hard Choices Around Data
-Students using the TeknoVe business - Please download the "TeknoVe Extra Info - Project Step 4" doc from the Resources tab, and read the additional information there about three of the use cases. Then complete Steps 4A, 4B and 4C as described below.
-Students providing their business - Please complete Steps 4A, 4B and 4C as described below.
-Complete three Step 4A tabs in Slides Project Steps doc: Based on the choices you have made in Steps 2 and 3, you will answer a series of questions to “pressure test” your vision for each use case.
-Complete Step 4B in Sheet Project Steps doc: Analyze the results of your questions in Step 4A to gain further insight into how to prioritize your use cases in step 4C. (Note there is no writing or deliverable required for this step 4B.)
-Complete Step 4C in Slides Project Steps doc: Complete a second prioritization grid, and make some difficult decisions regarding resource constraints to narrow down your use cases further.
-Step 5 - Operational Considerations - Accuracy, Bias, and Ethics
+* **Students using the TeknoVe business** - Please download the "TeknoVe Extra Info - Project Step 3" doc from the Resources tab, and read the additional information there about three of the use cases. Then complete Step 3 as described below.
+* **Students providing their business** - Please complete Step 3 as described below.
+* **Complete Step 3 in Slides Project Steps doc**: Follow directions to lay out architectures for your remaining use cases.
+### Step 4 - Hard Choices Around Data
+* **Students using the TeknoVe business** - Please download the "TeknoVe Extra Info - Project Step 4" doc from the Resources tab, and read the additional information there about three of the use cases. Then complete Steps 4A, 4B and 4C as described below.
+* **Students providing their business** - Please complete Steps 4A, 4B and 4C as described below.
+* **Complete three Step 4A tabs in Slides Project Steps doc**: Based on the choices you have made in Steps 2 and 3, you will answer a series of questions to “pressure test” your vision for each use case.
+* **Complete Step 4B in Sheet Project Steps doc**: Analyze the results of your questions in Step 4A to gain further insight into how to prioritize your use cases in step 4C. (Note there is no writing or deliverable required for this step 4B.)
+* **Complete Step 4C in Slides Project Steps doc**: Complete a second prioritization grid, and make some difficult decisions regarding resource constraints to narrow down your use cases further.
+### Step 5 - Operational Considerations - Accuracy, Bias, and Ethics
 Students using the TeknoVe business - Please download the "TeknoVe Extra Info - Project Step 5" doc from the Resources tab, and read the additional information there about three of the use cases. Then complete Step 5 as described below.
 Students providing their business - Please complete Step 5 as described below.
 Complete Step 5 in Slides Project Steps doc: You’ll reflect on the lifecycle of each of your remaining use cases, and write how you will measure and monitor for accuracy, overfitting/underfitting, and ethical considerations.
