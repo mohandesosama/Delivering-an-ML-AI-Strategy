@@ -67,24 +67,27 @@ Here is an overview of the documents you will use to complete the steps of this 
 * **Complete Step 4B in Sheet Project Steps doc**: Analyze the results of your questions in Step 4A to gain further insight into how to prioritize your use cases in step 4C. (Note there is no writing or deliverable required for this step 4B.)
 * **Complete Step 4C in Slides Project Steps doc**: Complete a second prioritization grid, and make some difficult decisions regarding resource constraints to narrow down your use cases further.
 ### Step 5 - Operational Considerations - Accuracy, Bias, and Ethics
-Students using the TeknoVe business - Please download the "TeknoVe Extra Info - Project Step 5" doc from the Resources tab, and read the additional information there about three of the use cases. Then complete Step 5 as described below.
-Students providing their business - Please complete Step 5 as described below.
-Complete Step 5 in Slides Project Steps doc: You’ll reflect on the lifecycle of each of your remaining use cases, and write how you will measure and monitor for accuracy, overfitting/underfitting, and ethical considerations.
-Step 6 - Seeking Input from Others
-Students using the TeknoVe business - Please download the "TeknoVe Extra Info - Project Step 6" doc from the Resources tab, and read the additional information there about three of the use cases. Then complete Steps 6A and 6B as described below.
-Students providing their business - Please complete Steps 6A and 6B as described below.
-Complete Step 6A in the Google Forms template: You will solicit feedback on your remaining top use cases from at least five colleagues or others. For each person, you will either have them complete the Google Form themselves, or you may fill out the Google Form yourself during your interview with them.
-Complete Step 6B in Slides Project Steps doc: Document your key takeaways from the feedback you got in step 6A, and complete a final prioritization grid.
-Step 7 - Tying it All Together
-Students using the TeknoVe business, and students providing their business - Please complete Step 7 as described below.
-Complete Step 7 in the Final Presentation slides template: Synthesize the results of all of your analyses into a final ML/AI strategy proposal.
-Project Submission
-Your project submission needs to include just one zip file, that includes each of the four documents you've worked on (listed again below).
+* **Students using the TeknoVe business** - Please download the "TeknoVe Extra Info - Project Step 5" doc from the Resources tab, and read the additional information there about three of the use cases. Then complete Step 5 as described below.
+* **Students providing their business** - Please complete Step 5 as described below.
+* **Complete Step 5 in Slides Project Steps doc**: You’ll reflect on the lifecycle of each of your remaining use cases, and write how you will measure and monitor for accuracy, overfitting/underfitting, and ethical considerations.
+### Step 6 - Seeking Input from Others
+* **Students using the TeknoVe business** - Please download the "TeknoVe Extra Info - Project Step 6" doc from the Resources tab, and read the additional information there about three of the use cases. Then complete Steps 6A and 6B as described below.
+* **Students providing their business** - Please complete Steps 6A and 6B as described below.
+* **Complete Step 6A in the Google Forms template**: You will solicit feedback on your remaining top use cases from at least five colleagues or others. For each person, you will either have them complete the Google Form themselves, or you may fill out the Google Form yourself during your interview with them.
+* **Complete Step 6B in Slides Project Steps doc**: Document your key takeaways from the feedback you got in step 6A, and complete a final prioritization grid.
+### Step 7 - Tying it All Together
+* **Students using the TeknoVe business, and students providing their business** - Please complete Step 7 as described below.
+* **Complete Step 7 in the Final Presentation slides template**: Synthesize the results of all of your analyses into a final ML/AI strategy proposal.
+# Project Submission
+**Your project submission needs to include just one zip file**, that includes each of the four documents you've worked on (listed again below).
 
-First, please convert each of the four project documents into pdf form. (The File -> Print menu offers one way to do this.) Then zip each of these up into one file that you'll submit. The zip doc should contain:
+**First, please convert each of the four project documents into pdf form**. (The File -> Print menu offers one way to do this.) Then zip each of these up into one file that you'll submit. The zip doc should contain:
 
-Your Slides Project Steps doc
-Your Sheets Project Steps doc
-Your survey form and results doc
-Your Final Presentation slides doc
-Your final presentation is, of course, also yours to keep and use in any setting you wish, along with all of your other project documentation.
+* Your Slides Project Steps doc
+* Your Sheets Project Steps doc
+* Your survey form and results doc
+* Your Final Presentation slides doc
+* Your final presentation is, of course, also yours to keep and use in any setting you wish, along with all of your other project documentation.
+
+# Credits
+All materials belongs entirely to Udacity
