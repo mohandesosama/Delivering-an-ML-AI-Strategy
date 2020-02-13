@@ -90,4 +90,4 @@ Here is an overview of the documents you will use to complete the steps of this 
 * Your final presentation is, of course, also yours to keep and use in any setting you wish, along with all of your other project documentation.
 
 # Credits
-All materials belongs entirely to Udacity
+All materials belong solely to Udacity
