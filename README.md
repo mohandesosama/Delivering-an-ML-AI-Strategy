@@ -34,12 +34,12 @@ Here is an overview of the documents you will use to complete the steps of this 
 * It is also fine to convert either of these templates to Apple's Numbers spreadsheet software.
 ### Some Project Steps in Slides Documents
 * You will be directed below to complete many of the other project steps in a single slides document, let's call it Slides Project Steps, and also include this in your project submission.
-* Here is this template as a Google Slides doc (you'll be asked to make a copy of it first).
+* Here is this template as a [Google Slides doc](https://docs.google.com/presentation/d/1SeexfR0MoLOJKJt3-DTT9MgF3OTFMgnAuWaWYJ6otuA) (you'll be asked to make a copy of it first).
 * Or you may download the template as a Powerpoint doc in the Resources tab in the left sidebar of the classroom.
 * It is also fine to convert either of these templates to Apple's Keynote slides software.
-* There is one other "Final Presentation" slides document, which you will complete as the last step in the project, step 7, and also include this in your project submission. Here is that Final Presentation template as a Google Slides doc (you'll be asked to make a copy of it first). Or you can access the Final Presentation template as a Powerpoint doc in the Resources tab in the left sidebar of the classroom. And again, it's fine to convert either of these templates to Apple's Keynote slides software and submit your document that way.
+* There is one other "Final Presentation" slides document, which you will complete as the last step in the project, step 7, and also include this in your project submission. Here is that [Final Presentation template as a Google Slides doc](https://docs.google.com/presentation/d/1sNMW8a5uK-PF3-Zb92OmGh5F5A239k-JGjvTcEaCeVc) (you'll be asked to make a copy of it first). Or you can access the Final Presentation template as a Powerpoint doc in the Resources tab in the left sidebar of the classroom. And again, it's fine to convert either of these templates to Apple's Keynote slides software and submit your document that way.
 ### One Project Step uses a Google Form
-* Project step 6A, in which you ask others for input, uses a Google Form document. Here is this template as a Google Form doc (you'll be asked to make a copy of it first).
+* Project step 6A, in which you ask others for input, uses a Google Form document. Here is this [template as a Google Form doc](https://docs.google.com/forms/d/1EMg8bCVjQWT4TE6cuY_rDKGRQU_jRqKPTdWf6T6d1HA/viewform?copy) (you'll be asked to make a copy of it first).
 ## Project Steps
 ### Step 0 - Choose Your Business Context
 * **Complete Step 0 in Sheet Project Steps doc**: Please read the DIRECTIONS tab, then indicate your choice of business on the Step 0 tab.
