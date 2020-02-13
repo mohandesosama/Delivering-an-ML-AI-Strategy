@@ -18,7 +18,7 @@ On the following page we provide directions for working through the project, usi
 ### Option 1: Use Your Own Business
 Leveraging your own background or experience, you’ll develop ideas for ML/AI use cases for a business that you are a part of or interested in. This will allow you to apply knowledge gained throughout the course to a real business of your choice.
 
-#### Option 2: Use a Fictitious Business - Auto Manufacturer: TeknoVe
+### Option 2: Use a Fictitious Business - Auto Manufacturer: TeknoVe
 TeknoVe is an Irish-headquartered manufacturer of electric vehicles with global operations across China, Germany, Canada, and Mexico. The company operates its own sales and assembly facilities but relies heavily on vendors for certain component manufacturing. They also have a global leasing arm, TeknoVe Financial. You’ll be tasked with helping TeknoVe formulate their business’ AI/ML strategy.
 
 If you'd like to use TeknoVe as your business context throughout the project, please download the "TeknoVe Business Case" doc from the Resources tab in the left sidebar of your classroom here. That document has initial descriptions of 10 use cases for implementing AI/ML in the business.
