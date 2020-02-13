@@ -1,6 +1,6 @@
 # Delivering an ML/AI Strategy
 ## Project Overview
-Congratulations! You’ve made it through the *AI for Business Leaders* curriculum and have taken an important step towards being an enlightened, responsible, and effective leader in this great era of technological change.
+Congratulations! You’ve made it through the **AI for Business Leaders** curriculum and have taken an important step towards being an enlightened, responsible, and effective leader in this great era of technological change.
 
 As a capstone to your learning, your final project will provide you the opportunity to apply this knowledge in a practical, hands-on scenario. You will, quite literally, follow the same steps we’ve gone through in the lessons together to formulate a cohesive AI strategy.
 
